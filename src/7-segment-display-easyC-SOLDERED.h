@@ -21,7 +21,7 @@ class SevenSegment : public EasyC
     SevenSegment();
     void setPins(uint8_t _pins);
     void setBrightness(uint8_t _brightness);
-    void displayChar(char * _char);
+    void displayChar(char *_char);
     void displayNumber(uint8_t _num);
 
   protected:
@@ -30,7 +30,7 @@ class SevenSegment : public EasyC
   private:
     int pin;
     uint8_t currentPins = 0b11111111; // Set initial state to all off
-    uint8_t brightness = 128; // Set max brightness for initial
+    uint8_t brightness = 128;         // Set max brightness for initial
 };
 
 #endif

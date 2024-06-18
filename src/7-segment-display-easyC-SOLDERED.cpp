@@ -181,7 +181,7 @@ void SevenSegment::displayChar(char *_char)
 
 /**
  * @brief Show a number on the 7 segment display
- * 
+ *
  * @param _num The nubmer to show, single digits numbers are accepted only
  */
 void SevenSegment::displayNumber(uint8_t _num)
