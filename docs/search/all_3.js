@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['defaultaddress_0',['defaultAddress',['../class_easy_c.html#a9052ae674b3553bbb19283278299f395',1,'EasyC']]],
-  ['design_1',['Hardware design',['../index.html#autotoc_md2',1,'']]],
-  ['documentation_2',['Documentation',['../index.html#autotoc_md3',1,'']]]
+  ['compatibility_0',['Board compatibility',['../index.html#autotoc_md4',1,'']]],
+  ['contents_1',['Repository Contents',['../index.html#autotoc_md1',1,'']]],
+  ['currentpins_2',['currentPins',['../class_seven_segment.html#a7dd1ec0eac6c7261f287e6d681cf7e50',1,'SevenSegment']]]
 ];

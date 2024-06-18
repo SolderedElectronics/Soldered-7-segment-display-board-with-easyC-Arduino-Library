@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['easyc_0',['EasyC',['../class_easy_c.html#a2ea672a225a32eab52c2b20733fd26bd',1,'EasyC']]]
+  ['displaychar_0',['displayChar',['../class_seven_segment.html#a56c325d8a3e292290c599a6f5206780e',1,'SevenSegment']]],
+  ['displaynumber_1',['displayNumber',['../class_seven_segment.html#a22b89121f529de8feded88b3d4ac9722',1,'SevenSegment']]]
 ];

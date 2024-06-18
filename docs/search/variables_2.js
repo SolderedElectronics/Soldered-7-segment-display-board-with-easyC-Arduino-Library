@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['defaultaddress_0',['defaultAddress',['../class_easy_c.html#a9052ae674b3553bbb19283278299f395',1,'EasyC']]]
+  ['currentpins_0',['currentPins',['../class_seven_segment.html#a7dd1ec0eac6c7261f287e6d681cf7e50',1,'SevenSegment']]]
 ];

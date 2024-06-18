@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['easyc_0',['EasyC',['../class_easy_c.html',1,'EasyC'],['../class_easy_c.html#a2ea672a225a32eab52c2b20733fd26bd',1,'EasyC::EasyC()']]],
-  ['easyc_2ehpp_1',['easyC.hpp',['../easy_c_8hpp.html',1,'']]],
-  ['err_2',['err',['../class_easy_c.html#a8b880d5daf116adde0cc436f1e4c0853',1,'EasyC']]]
+  ['defaultaddress_0',['defaultAddress',['../class_easy_c.html#a9052ae674b3553bbb19283278299f395',1,'EasyC']]],
+  ['design_1',['Hardware design',['../index.html#autotoc_md2',1,'']]],
+  ['displaychar_2',['displayChar',['../class_seven_segment.html#a56c325d8a3e292290c599a6f5206780e',1,'SevenSegment']]],
+  ['displaynumber_3',['displayNumber',['../class_seven_segment.html#a22b89121f529de8feded88b3d4ac9722',1,'SevenSegment']]],
+  ['documentation_4',['Documentation',['../index.html#autotoc_md3',1,'']]]
 ];

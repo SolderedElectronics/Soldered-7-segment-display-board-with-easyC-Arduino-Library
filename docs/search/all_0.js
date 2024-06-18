@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['about_20soldered_0',['About Soldered',['../index.html#autotoc_md5',1,'']]],
-  ['address_1',['address',['../class_easy_c.html#a6f4c6f2e8723b0c0495e126d49f5fcda',1,'EasyC']]],
-  ['arduino_20library_2',['NAZIV PROIZVODA Arduino library',['../index.html',1,'']]]
+  ['7_2dsegment_2ddisplay_2deasyc_2dsoldered_2ecpp_0',['7-segment-display-easyC-SOLDERED.cpp',['../7-segment-display-easy_c-_s_o_l_d_e_r_e_d_8cpp.html',1,'']]],
+  ['7_2dsegment_2ddisplay_2deasyc_2dsoldered_2eh_1',['7-segment-display-easyC-SOLDERED.h',['../7-segment-display-easy_c-_s_o_l_d_e_r_e_d_8h.html',1,'']]]
 ];
