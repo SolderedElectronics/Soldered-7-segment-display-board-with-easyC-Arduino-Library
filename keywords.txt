@@ -1,16 +1,22 @@
 ##################################################
-# Syntax Coloring Map For Obstacle-Sensor-SOLDERED
+# Syntax Coloring Map For 7-segment-display-easyC-SOLDERED
 ##################################################
 
 ##################################################
 # Datatypes (KEYWORD1)
 ##################################################
 
+SevenSegment	KEYWORD1
+
 ##################################################
 # Methods and Functions (KEYWORD2)
 ##################################################
 
 begin	KEYWORD2
+displayNumber	KEYWORD2
+displayChar	KEYWORD2
+setPins	KEYWORD2
+setBrightness	KEYWORD2
 
 ##################################################
 # Constants (LITERAL1)

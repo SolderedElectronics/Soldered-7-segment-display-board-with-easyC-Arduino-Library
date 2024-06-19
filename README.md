@@ -1,12 +1,20 @@
-# NAZIV PROIZVODA Arduino library
+# Soldered 7-segment blue display board with easyC Arduino library
 
-[![Make docs and publish to GitHub Pages](https://github.com/SolderedElectronics/Soldered-Generic-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-Generic-Arduino-Library/actions/workflows/make_docs.yml)
-[![Arduino Library Manager Compatibility](https://github.com/SolderedElectronics/Soldered-Generic-Arduino-Library/actions/workflows/arduino_lint.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-Generic-Arduino-Library/actions/workflows/arduino_lint.yml)
-[![ATtiny Firmware Compile Test](https://github.com/SolderedElectronics/Soldered-Generic-Arduino-Library/actions/workflows/attiny_test.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-Generic-Arduino-Library/actions/workflows/attiny_test.yml)
+[![Make docs and publish to GitHub Pages](https://github.com/SolderedElectronics/Soldered-7-segment-display-board-with-easyC-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-7-segment-display-board-with-easyC-Arduino-Library/actions/workflows/make_docs.yml)
+[![Arduino Library Manager Compatibility](https://github.com/SolderedElectronics/Soldered-7-segment-display-board-with-easyC-Arduino-Library/actions/workflows/arduino_lint.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-7-segment-display-board-with-easyC-Arduino-Library/actions/workflows/arduino_lint.yml)
+[![ATtiny Firmware Compile Test](https://github.com/SolderedElectronics/Soldered-7-segment-display-board-with-easyC-Arduino-Library/actions/workflows/attiny_test.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-7-segment-display-board-with-easyC-Arduino-Library/actions/workflows/attiny_test.yml)
 
-| ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
+| ![7-segment white display board with easyC](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :------------------------------------------------------------------------------------: |
-|                      [NAZIV PROIZVODA](https://www.solde.red/SKU)                      |
+|                      [Soldered 7-segment blue display board with easyC](https://www.solde.red/333190)                      |
+
+| ![7-segment red display board with easyC](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
+| :------------------------------------------------------------------------------------: |
+|                      [Soldered 7-segment blue display board with easyC](https://www.solde.red/333206)                      |
+
+| ![7-segment blue display board with easyC](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
+| :------------------------------------------------------------------------------------: |
+|                      [Soldered 7-segment blue display board with easyC](https://www.solde.red/333207)                      |
 
 OPIS PROIZVODA + LINK NA [easyC ecosystem](https://www.soldered.com/en/easyC).
 
@@ -18,20 +26,20 @@ OPIS PROIZVODA + LINK NA [easyC ecosystem](https://www.soldered.com/en/easyC).
 
 ### Hardware design
 
-You can find hardware design for this board in _NAZIV PROIZVODA_ hardware repository.
+You can find hardware design for this board in _Soldered 7-segment blue display board with easyC_ hardware repository.
 
 ### Documentation
 
 Access Arduino library documentation [here](https://SolderedElectronics.github.io/Soldered-Generic-Arduino-Library/).
 
-- Tutorial for using the NAZIV PROIZVODA board
+- Tutorial for using the Soldered 7-segment blue display board with easyC board
 - Installing an Arduino library
 
 ### Board compatibility
 
 The library is compatible with board & microcontroller families shown in green below:
 
-[![Compile Sketches](http://github-actions.40ants.com/SolderedElectronics/Soldered-Generic-Arduino-Library/matrix.svg?branch=dev&only=Compile%20Sketches)](https://github.com/SolderedElectronics/Soldered-Generic-Arduino-Library/actions/workflows/compile_test.yml)
+[![Compile Sketches](http://github-actions.40ants.com/SolderedElectronics/Soldered-Generic-Arduino-Library/matrix.svg?branch=dev&only=Compile%20Sketches)](https://github.com/SolderedElectronics/Soldered-7-segment-display-board-with-easyC-Arduino-Library/actions/workflows/compile_test.yml)
 
 ### About Soldered
 
@@ -42,11 +50,6 @@ At Soldered, we design and manufacture a wide selection of electronic products t
 - [Web Store](https://www.soldered.com/shop)
 - [Tutorials & Projects](https://soldered.com/learn)
 - [Community & Technical support](https://soldered.com/community)
-
-### Original source
-
-​
-This library is possible thanks to original [arduino-mcp23017](https://github.com/blemasle/arduino-mcp23017) library. Thank you, blemasle.
 
 ### Open-source license
 
