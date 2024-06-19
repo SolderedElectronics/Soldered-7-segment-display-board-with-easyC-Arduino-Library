@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.11.0"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>16x2 easyC LCD Library: 7-segment-display-easyC-SOLDERED.h Source File</title>
+<title>Soldered 7-segment display with easyC library: 7-segment-display-easyC-SOLDERED.h Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -30,9 +30,9 @@
  <tr id="projectrow">
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign">
-   <div id="projectname">16x2 easyC LCD Library<span id="projectnumber">&#160;1.0.0</span>
+   <div id="projectname">Soldered 7-segment display with easyC library<span id="projectnumber">&#160;1.0.0</span>
    </div>
-   <div id="projectbrief">This is a library for the 16x2 easyC LCD Module</div>
+   <div id="projectbrief">This is a library for the 7-segment display with easyC by Soldered Electronics</div>
   </td>
  </tr>
  </tbody>
@@ -104,8 +104,8 @@ $(function(){initNavTree('7-segment-display-easy_c-_s_o_l_d_e_r_e_d_8h_source.ht
 </div><!--header-->
 <div class="contents">
 <a href="7-segment-display-easy_c-_s_o_l_d_e_r_e_d_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span> </div>
-<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span><span class="preprocessor">#ifndef __SENSOR__</span></div>
-<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span><span class="preprocessor">#define __SENSOR__</span></div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span><span class="preprocessor">#ifndef __7SEGMENT_EASYC__</span></div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span><span class="preprocessor">#define __7SEGMENT_EASYC__</span></div>
 <div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span> </div>
 <div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span><span class="preprocessor">#include &quot;Arduino.h&quot;</span></div>
 <div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span><span class="preprocessor">#include &quot;<a class="code" href="easy_c_8hpp.html">libs/Generic-easyC/easyC.hpp</a>&quot;</span></div>
@@ -117,7 +117,7 @@ $(function(){initNavTree('7-segment-display-easy_c-_s_o_l_d_e_r_e_d_8h_source.ht
 <div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span>    <a class="code hl_function" href="class_seven_segment.html#ae11eef164f6c40dfa87a9a3f8976cbc6">SevenSegment</a>();</div>
 <div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="class_seven_segment.html#a7821e197e3826b9b8f367564e04d9787">setPins</a>(uint8_t _pins);</div>
 <div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="class_seven_segment.html#a03e0f830c64ab6eb24d32815ffcbacb5">setBrightness</a>(uint8_t _brightness);</div>
-<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="class_seven_segment.html#a56c325d8a3e292290c599a6f5206780e">displayChar</a>(<span class="keywordtype">char</span> * _char);</div>
+<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="class_seven_segment.html#a56c325d8a3e292290c599a6f5206780e">displayChar</a>(<span class="keywordtype">char</span> *_char);</div>
 <div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="class_seven_segment.html#a22b89121f529de8feded88b3d4ac9722">displayNumber</a>(uint8_t _num);</div>
 <div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span> </div>
 <div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>  <span class="keyword">protected</span>:</div>
@@ -126,7 +126,7 @@ $(function(){initNavTree('7-segment-display-easy_c-_s_o_l_d_e_r_e_d_8h_source.ht
 <div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>  <span class="keyword">private</span>:</div>
 <div class="line"><a id="l00031" name="l00031"></a><span class="lineno"><a class="line" href="class_seven_segment.html#a3da4412960219ad7e8208fbb06ff1605">   31</a></span>    <span class="keywordtype">int</span> <a class="code hl_variable" href="class_seven_segment.html#a3da4412960219ad7e8208fbb06ff1605">pin</a>;</div>
 <div class="line"><a id="l00032" name="l00032"></a><span class="lineno"><a class="line" href="class_seven_segment.html#a7dd1ec0eac6c7261f287e6d681cf7e50">   32</a></span>    uint8_t <a class="code hl_variable" href="class_seven_segment.html#a7dd1ec0eac6c7261f287e6d681cf7e50">currentPins</a> = 0b11111111; <span class="comment">// Set initial state to all off</span></div>
-<div class="line"><a id="l00033" name="l00033"></a><span class="lineno"><a class="line" href="class_seven_segment.html#aa22f4653ed96353970978084b7df4990">   33</a></span>    uint8_t <a class="code hl_variable" href="class_seven_segment.html#aa22f4653ed96353970978084b7df4990">brightness</a> = 128; <span class="comment">// Set max brightness for initial</span></div>
+<div class="line"><a id="l00033" name="l00033"></a><span class="lineno"><a class="line" href="class_seven_segment.html#aa22f4653ed96353970978084b7df4990">   33</a></span>    uint8_t <a class="code hl_variable" href="class_seven_segment.html#aa22f4653ed96353970978084b7df4990">brightness</a> = 128;         <span class="comment">// Set max brightness for initial</span></div>
 <div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>};</div>
 </div>
 <div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span> </div>
@@ -151,7 +151,7 @@ $(function(){initNavTree('7-segment-display-easy_c-_s_o_l_d_e_r_e_d_8h_source.ht
     <ul>
         <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="7-segment-display-easy_c-_s_o_l_d_e_r_e_d_8h.html">7-segment-display-easyC-SOLDERED.h</a></li>
         <li class="footer">
-            Generated on Tue Jun 18 2024 14:14:37 for 16x2 easyC LCD Library by <a href="http://www.doxygen.org/index.html">
+            Generated on Wed Jun 19 2024 06:19:46 for Soldered 7-segment display with easyC library by <a href="http://www.doxygen.org/index.html">
                 <img class="footer" src="doxygen.png" alt="doxygen"
                     onerror="this.onerror=null;this.src='doxygen.svg';" /></a> 1.11.0.
             Dark theme by <a href="http://majerle.eu" target="_new">Tilen Majerle</a>. All rights reserved.
