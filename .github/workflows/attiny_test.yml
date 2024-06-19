@@ -31,5 +31,6 @@ jobs:
           fqbn: ${{ matrix.board.fqbn }}
           libraries: |
             - source-path: ./
+            - name: ShiftRegister74HC595
           sketch-paths: |
             - ./extras/attiny_firmware/
